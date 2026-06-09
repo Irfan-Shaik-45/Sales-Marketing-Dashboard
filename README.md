@@ -126,7 +126,7 @@ The dashboard follows a Star Schema Data Model for optimized performance and sca
 
 ### Data Model Preview
 
-![Data Model](Sales_DataModel.png)
+![Data Model](smd_data_model.png)
 
 ---
 
@@ -195,11 +195,11 @@ More than 40 DAX measures were developed to support dynamic reporting and KPI ca
 
 ## 📸 DAX Measures Preview
 
-![Measures 1](Sales_Measures1.png)
+![Measures 1](smd_measures1.png)
 
-![Measures 2](Sales_Measures2.png)
+![Measures 2](smd_measures2.png)
 
-![Measures 3](Sales_Measures3.png)
+![Measures 3](smd_measures3.png)
 
 ---
 
