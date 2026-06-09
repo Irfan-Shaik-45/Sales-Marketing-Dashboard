@@ -219,6 +219,18 @@ More than 40 DAX measures were developed to support dynamic reporting and KPI ca
 
 ---
 
+## 📈 Key Insights
+
+- Total Revenue reached $629.5K with a Profit of $136.3K.
+- Online Sales Channel contributed over 67% of total revenue.
+- Email and Referral channels generated the highest revenue among lead sources.
+- Asia and Europe were the top-performing regions.
+- Conversion Rate remained above 17%, indicating strong campaign performance.
+- Spring Promo 2024 delivered the highest campaign revenue.
+- Product-level analysis identified top-performing products based on revenue and profit.
+
+---
+
 ## 🎥 Dashboard Walkthrough
 
 A complete dashboard walkthrough video is included in this repository.
